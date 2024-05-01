@@ -1,30 +1,4 @@
 
-  
-  <!-- <div class=" w3-animate-left w3-border w3-card w3-padding-32 w3-row-padding  w3-deep-orange">
-    <div class="w3-col m3">
-      <label><i class="fa fa-calendar-o"></i> Check In</label>
-      <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY">
-    </div>
-    <div class="w3-col m3">
-      <label><i class="fa fa-calendar-o"></i> Check Out</label>
-      <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY">
-    </div>
-    <div class="w3-col m2">
-      <label><i class="fa fa-male"></i> Adultes</label>
-      <input class="w3-input w3-border" type="number" placeholder="1">
-    </div>
-    <div class="w3-col m2">
-      <label><i class="fa fa-child"></i> Enfants</label>
-      <input class="w3-input w3-border" type="number" placeholder="0">
-    </div>
-    <div class="w3-col m2">
-      <label><i class="fa fa-search"></i> Rechercher</label>
-      <button class="w3-button w3-block w3-black w3-opacity">Rechercher</button>
-    </div>
-  </div> -->
-
- 
-
   <div class="w3-row-padding" style="margin-top: 3rem" id="about">
     <div class="w3-col l4 12">
       <h3>A propos</h3>
