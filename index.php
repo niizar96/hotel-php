@@ -21,6 +21,14 @@
             width: 100%; position:relative;
             box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.9); /* Add box shadow */
         }
+        @media only screen and (max-width: 600px) {
+            .w3-display-topleft {
+                position: absolute;
+                left: -20px!important;
+                top: 17px;!important;}
+        }
+
+
     </style>
 </head>
 <body class="w3-light-grey" style="min-height: 100vh;
@@ -58,15 +66,13 @@
 </div>
 
 <header class="w3-display-container">
-    <div>
-        <img class="w3-image" src="./img/hotel_bg.jpg" alt="The Hotel" style="width: 100%;height: 40vh
+        <img class="w3-image" src="./img/hotel_bg.jpg" alt="The Hotel" style="width: 100vw;height: 40vh
 ; object-fit: cover;">
         <div class="w3-display-topleft w3-text-white" style="padding:24px 48px">
             <h1 class="w3-jumbo w3-hide-small">Paris Monte-Carlo</h1>
             <h1 class="w3-hide-large w3-hide-medium">Paris Monte-Carlo</h1>
             <p><a href="?page=modifresa" class="w3-button w3-black w3-padding-large w3-large w3-opacity">RESERVER</a></p>
         </div>
-    </div>
 
 </header>
 
